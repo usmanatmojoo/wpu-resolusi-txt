@@ -1,6 +1,9 @@
 RENCANA KONTEN WPU
 
-- Java script
+- Java script 
+  * ES6
+  * FrameWork Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
+

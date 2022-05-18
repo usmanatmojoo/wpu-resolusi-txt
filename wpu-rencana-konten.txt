@@ -7,5 +7,4 @@ RENCANA KONTEN WPU
 - PHP Frameworks
 - Interview
 - Vlogs
-- Materi join table di Mysql 
-
+- Ruby on Rails

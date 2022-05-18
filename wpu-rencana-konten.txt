@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 - Java script 
   * ES6
   * FrameWork Javascript
+- Struktur data dasar
 - PHP Frameworks
 - Interview
 - Vlogs
 - Materi join table di Mysql 
+
